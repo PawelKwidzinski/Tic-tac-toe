@@ -1,4 +1,4 @@
-package pl.kwidzinski.Game;
+package pl.kwidzinski.game;
 
 import java.util.Scanner;
 
